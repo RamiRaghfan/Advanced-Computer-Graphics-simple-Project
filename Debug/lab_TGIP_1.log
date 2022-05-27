@@ -1,3 +1,7 @@
 ﻿          1 file(s) copied.
           1 file(s) copied.
-  lab_TGIP_1.vcxproj -> C:\Users\40758\Desktop\BigBoys - Copy\BigBoy1\Debug\BigBoy1.exe
+  main.cpp
+C:\Users\Rami\Desktop\BigBoys\OpenGL -- 2D Animations\main.cpp(229,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  Generating Code...
+  lab_TGIP_1.vcxproj -> C:\Users\Rami\Desktop\BigBoys\OpenGL -- 2D Animations\Debug\2DAnimations.exe
